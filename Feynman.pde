@@ -1,3 +1,8 @@
+/* @author: Tomas de-Camino-Beck
+ @version: 1.1 Aug 2018
+ @company www.funcostarica.org
+ */
+
 float d=300;
 float r=d/2;
 PVector p1 = new PVector(105, 0, 0);
